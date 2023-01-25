@@ -1,5 +1,5 @@
-var a=Math.floor(Math.random()*5)+1;
-var b=Math.floor(Math.random()*5)+1;
+var a=Math.floor(Math.random()*6)+1;
+var b=Math.floor(Math.random()*6)+1;
 var dice1="images/dice"+a+".png";
 var dice2="images/dice"+b+".png";
 document.querySelector("#Player1").setAttribute("src",dice1);
