@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(182, 172, 172);
+}
+.Title{
+    text-align: center;
+    font-size: 9rem;
+    font-style: italic;
+    font-weight: 200;
+    font-family: cursive;
+}
+.Dices{
+    display: flex;
+    justify-content:center;
+    }
+.Dice1{
+    margin-right: 40px;
+    text-align: center;
+    
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Dice2{
+    margin-right: 40px;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
